@@ -40,9 +40,10 @@ Find me on Kattis: [Koh Si Xing](https://open.kattis.com/users/koh-si-xing)
 | Akcija | [Java](./Java/Akcija.java) | [![:cat:](https://open.kattis.com/favicon)](https://nus.kattis.com/problems/akcija) |
 | Apaxiaaaaaaaaaaaans! | [Java](./Java/Apaxians.java) | [![:cat:](https://open.kattis.com/favicon)](https://nus.kattis.com/problems/apaxiaaans) |
 | Atori | [Java](./Java/Atori.java) | [![:cat:](https://open.kattis.com/favicon)](https://nus.kattis.com/problems/autori) |
-| Exactly Electrical	| [Java](./Java/ExactlyElectrical.java) | [![:cat:](https://open.kattis.com/favicon)](https://nus.kattis.com/problems/exactlyelectrical) |
+| Detailed Differences | [Java](./Java/DetailedDifferences.java) | [![:cat:](https://open.kattis.com/favicon)](https://nus.kattis.com/problems/detaileddifferences) |
+| Exactly Electrical | [Java](./Java/ExactlyElectrical.java) | [![:cat:](https://open.kattis.com/favicon)](https://nus.kattis.com/problems/exactlyelectrical) |
 | FizzBuzz	| [Java](./Java/FizzBuzz.java) | [![:cat:](https://open.kattis.com/favicon)](https://nus.kattis.com/problems/fizzbuzz) |
-| Grandpa Bernie | [Python 3](./Python%203/GrandpaBernie.py) | [![:cat:](https://open.kattis.com/favicon)](https://nus.kattis.com/problems/grandpabernie) |
+| Grandpa Bernie | [Java](./Java/GrandpaBernie.java), [Python 3](./Python%203/GrandpaBernie.py) | [![:cat:](https://open.kattis.com/favicon)](https://nus.kattis.com/problems/grandpabernie) |
 | Integer List | [Java](./Java/IntegerList.java) | [![:cat:](https://open.kattis.com/favicon)](https://nus.kattis.com/problems/integerlists) |
 | Last Factorial Digit | [Java](./Java/LastFactorialDigit.java) | [![:cat:](https://open.kattis.com/favicon)](https://nus.kattis.com/problems/lastfactorialdigit) |
 | Number Fun  | [Java](./Java/NumberFun.java) | [![:cat:](https://open.kattis.com/favicon)](https://nus.kattis.com/problems/numberfun) |
@@ -52,4 +53,6 @@ Find me on Kattis: [Koh Si Xing](https://open.kattis.com/users/koh-si-xing)
 | Skener | [Java](./Java/Skener.java) | [![:cat:](https://open.kattis.com/favicon)](https://nus.kattis.com/problems/skener) |
 | Stuck in a Time Loop | [Java](./Java/StuckInATimeLoop.java) | [![:cat:](https://open.kattis.com/favicon)](https://nus.kattis.com/problems/timeloop) |
 | Sum Kind of Problem | [Java](./Java/Sum.java) | [![:cat:](https://open.kattis.com/favicon)](https://nus.kattis.com/problems/sumkindofproblem) |
+| Take Two Stones | [Java](./Java/TakeTwoStones.java) | [![:cat:](https://open.kattis.com/favicon)](https://nus.kattis.com/problems/twostones) |
+| Virtual Friends | [Java](./Java/VirtualFriends.java) | [![:cat:](https://open.kattis.com/favicon)](https://nus.kattis.com/problems/virtualfriends) |
 | What Does the Fox Say? | [Java](./Java/WhatDoesTheFoxSay.java) | [![:cat:](https://open.kattis.com/favicon)](https://nus.kattis.com/problems/whatdoesthefoxsay) |
